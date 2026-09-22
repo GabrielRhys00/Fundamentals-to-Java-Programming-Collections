@@ -104,7 +104,6 @@ public class TopGlobalYearner {
                 default:
                     System.out.println("Invalid input.");
             }
-
         }
 
         /*
