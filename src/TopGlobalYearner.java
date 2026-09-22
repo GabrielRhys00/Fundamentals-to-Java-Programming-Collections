@@ -72,8 +72,10 @@ public class TopGlobalYearner {
                     change = stapeghiCash - total;
                     if (change >= total) {
                         System.out.println("Change: " + change);
-                    } else {
+                    } else if {
                         System.out.println("BAWAL UTANG!!   \nYour change" + change);
+                    } else {
+                        System.out.println("Invalid input. Please check your input.");
                     }
                     break;
 
@@ -88,8 +90,10 @@ public class TopGlobalYearner {
                     change = drinksCash - total;
                     if (change >= total) {
                         System.out.println("Change: " + change);
-                    } else {
+                    } else if {
                         System.out.println("BAWAL UTANG!!   \nYour change" + change);
+                    } else {
+                        System.out.println("Invalid input. Please check your input.");
                     }
                     break;
 
